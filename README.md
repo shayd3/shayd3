@@ -11,3 +11,11 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayd3&layout=compact&theme=radical"></img
   </a>
 </p>
+<hr/>
+<p align=center>
+  <h1>What am I up to?</h1>
+  🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!
+  📚 Studying for CKAD (Certified Kubernetes Application Developer)
+  👾 Beating Elden Ring (finally)
+  ⚔️ 99 in all combat skills in Runescape 3
+</p>
