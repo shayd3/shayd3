@@ -12,7 +12,7 @@
   </a>
 </p>
 <hr/>
-<div align=center>
+<div>
   <h1>What am I up to?</h1>
   <p>🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!</p>
   <p>📚 Studying for CKAD (Certified Kubernetes Application Developer)</p>
