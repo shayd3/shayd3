@@ -14,8 +14,10 @@
 <hr/>
 <div>
   <h1>What am I up to?</h1>
-  <p>🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!</p>
-  <p>📚 Studying for CKAD (Certified Kubernetes Application Developer)</p>
-  <p>👾 Beating Elden Ring (finally)</p>
-  <p>⚔️ 99 in all combat skills in Runescape 3</p>
+  <ul>
+    <li>🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!</li>
+    <li>📚 Studying for CKAD (Certified Kubernetes Application Developer)</li>
+    <li>👾 Beating Elden Ring (finally)</li>
+    <li>⚔️ 99 in all combat skills in Runescape 3</li>
+  </ul>
 </div>
