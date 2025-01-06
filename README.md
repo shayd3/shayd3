@@ -12,10 +12,10 @@
   </a>
 </p>
 <hr/>
-<p align=center>
+<div align=center>
   <h1>What am I up to?</h1>
-  🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!
-  📚 Studying for CKAD (Certified Kubernetes Application Developer)
-  👾 Beating Elden Ring (finally)
-  ⚔️ 99 in all combat skills in Runescape 3
-</p>
+  <p>🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!</p>
+  <p>📚 Studying for CKAD (Certified Kubernetes Application Developer)</p>
+  <p>👾 Beating Elden Ring (finally)</p>
+  <p>⚔️ 99 in all combat skills in Runescape 3</p>
+</div>
