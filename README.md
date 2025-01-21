@@ -15,7 +15,7 @@
 <div>
   <h1>What am I up to?</h1>
   <ul>
-    <li>🦀 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> to learn Rust!</li>
+    <li>🥞 Building <a href="https://github.com/shayd3/ryro">URL Shortener</a> because why not?</li>
     <li>🎄 Slowly but surely getting through <a href="https://github.com/shayd3/advent-of-code-2024">Advent of Code 2024</a></li>
     <li>📚 Studying for CKAD (Certified Kubernetes Application Developer)</li>
     <li>👾 Beating Elden Ring (finally)</li>
