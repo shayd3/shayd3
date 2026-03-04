@@ -15,7 +15,7 @@
 <div>
   <h1>What am I up to?</h1>
   <ul>
-    <li>🥞 Building a service health checker to learn GoLang</li>
+    <li>🥞 Building a Bakers Toolkit called `dough-ratio` and a GitHub Actions Dashboard called `gha-dashboard` to track workflows across organizations/repos</li>
     <li>📚 Studying for CKAD (Certified Kubernetes Application Developer)</li>
     <li>⚔️ 99 in all combat skills in Old School Runescape</li>
   </ul>
